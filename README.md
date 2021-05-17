@@ -1,4 +1,4 @@
-# Use in Ubuntu 20.04 VM
+# Tested in Ubuntu 20.04 VM
 ## Usage:
 ```sh
 chmod +x ./start.sh
